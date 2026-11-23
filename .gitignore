@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+papasalud_historial.db
+papasalud_historial.db-*
+modelo_v2.pkl
